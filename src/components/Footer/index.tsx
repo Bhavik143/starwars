@@ -5,9 +5,9 @@ export function Footer() {
   return (
     <Container>
       <p>
-        Desenvolvido por
+        Desenvolvido por 
         {' '}
-        <a href="https://www.linkedin.com/in/kameikay/">Rutuja Madane </a>
+        <a href="https://www.linkedin.com/in/kameikay/"> Bhavik Arora</a>
         .
         {' '}
         <br />

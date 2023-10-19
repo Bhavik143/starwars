@@ -24,7 +24,7 @@ export const GlobalStyles = createGlobalStyle`
   body {
     font-size: 16px;
     color: #F5F5F5;
-    background-color: #1B1A17;
+    background-color: #1C39BB;
     -webkit-font-smoothing: antialiased !important;
   }
 
